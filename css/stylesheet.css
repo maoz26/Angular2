@@ -1,0 +1,10 @@
+h1{
+    color:red;
+}
+courses{
+    display:inline-block;
+    margin:20px;
+}
+authors{
+    display:inline-block;
+}
